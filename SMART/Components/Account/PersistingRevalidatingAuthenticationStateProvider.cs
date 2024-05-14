@@ -5,7 +5,7 @@ using Microsoft.AspNetCore.Components.Web;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.Extensions.Options;
 using SMART.Client;
-using SMART.Data;
+using SMART.Data.Entities;
 using System.Diagnostics;
 using System.Security.Claims;
 

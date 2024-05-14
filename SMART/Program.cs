@@ -5,6 +5,7 @@ using SMART.Client.Pages;
 using SMART.Components;
 using SMART.Components.Account;
 using SMART.Data;
+using SMART.Data.Entities;
 
 var builder = WebApplication.CreateBuilder(args);
 
