@@ -1,10 +1,9 @@
-using Microsoft.AspNetCore.Identity;
-
-namespace SMART.Data
+namespace SMART.Data.Entities
 {
+    using Microsoft.AspNetCore.Identity;
+
     // Add profile data for application users by adding properties to the ApplicationUser class
     public class ApplicationUser : IdentityUser
     {
     }
-
 }

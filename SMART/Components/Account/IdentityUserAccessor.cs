@@ -1,5 +1,5 @@
 using Microsoft.AspNetCore.Identity;
-using SMART.Data;
+using SMART.Data.Entities;
 
 namespace SMART.Components.Account
 {

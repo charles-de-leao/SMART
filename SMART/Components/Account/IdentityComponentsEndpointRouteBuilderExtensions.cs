@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Primitives;
 using SMART.Components.Account.Pages;
 using SMART.Components.Account.Pages.Manage;
-using SMART.Data;
+using SMART.Data.Entities;
 using System.Security.Claims;
 using System.Text.Json;
 

@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SMART", "SMART\SMART.csproj", "{2557C507-4E82-4128-ABB5-DEF36F844505}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SMART", "SMART\SMART.csproj", "{2557C507-4E82-4128-ABB5-DEF36F844505}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SMART.Client", "SMART.Client\SMART.Client.csproj", "{A43C93D6-BA10-496E-B5CD-229FB43DD5A6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SMART.Client", "SMART.Client\SMART.Client.csproj", "{A43C93D6-BA10-496E-B5CD-229FB43DD5A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SMART.Shared", "SMART.Shared\SMART.Shared.csproj", "{9A8BEF23-7E86-4853-A875-D8CF571E4F0C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{A43C93D6-BA10-496E-B5CD-229FB43DD5A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A43C93D6-BA10-496E-B5CD-229FB43DD5A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A43C93D6-BA10-496E-B5CD-229FB43DD5A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A8BEF23-7E86-4853-A875-D8CF571E4F0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A8BEF23-7E86-4853-A875-D8CF571E4F0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A8BEF23-7E86-4853-A875-D8CF571E4F0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A8BEF23-7E86-4853-A875-D8CF571E4F0C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
